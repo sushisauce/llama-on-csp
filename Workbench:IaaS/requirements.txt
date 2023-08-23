@@ -1,0 +1,8 @@
+safetensors
+tokenizers
+transformers
+datasets
+bitsandbytes
+peft
+huggingface_hub
+scipy
